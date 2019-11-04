@@ -4,7 +4,7 @@
 ## 使用
 ### 依赖
 ```
-implementation 'com.shouzhong:ImageCompress:1.0.10'
+implementation 'com.shouzhong:ImageCompress:1.0.0'
 ```
 ### 代码
 ```
