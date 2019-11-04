@@ -1,4 +1,4 @@
-# Luban
+# ImageCompress
 ## 说明
 图片压缩
 ## 使用
