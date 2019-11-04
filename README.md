@@ -19,3 +19,5 @@ implementation 'com.shouzhong:ImageCompress:1.0.0'
  */
 public static String compress(String filePath, String targetDir, int leastCompressSize, boolean focusAlpha)
 ```
+## 感谢
+[Curzibn/Luban](https://github.com/Curzibn/Luban)
